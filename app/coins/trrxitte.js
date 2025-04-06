@@ -8,12 +8,12 @@ const currencyUnits = [
 		name:"TRRXITTE",
 		multiplier:1,
 		default:true,
-		values:["", "bchc", "TRRXITTE"],
+		values:["", "trrxitte", "TRRXITTE"],
 		decimalPlaces:8
 	},
 	{
 		type:"native",
-		name:"mBCHC",
+		name:"mTRRXITTE",
 		multiplier:1000,
 		values:["mbchc"],
 		decimalPlaces:5

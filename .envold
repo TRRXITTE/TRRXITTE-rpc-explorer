@@ -12,7 +12,7 @@ BTCEXP_BASEURL=/
 
 # The active coin. Only officially supported value is "BTC".
 # Default: BTC
-BTCEXP_COIN=BCHC
+BTCEXP_COIN=TRRXITTE
 
 # Host/Port to bind to
 # Defaults: shown
