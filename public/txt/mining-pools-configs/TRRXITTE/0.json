@@ -526,9 +526,9 @@
 		}
 	},
 	"payout_addresses" : {
-		"1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa": {
-			"name" : "Satoshi",
-			"link" : "https://bitcoin.org"
+		"1LaEWEQfVnGXvEPt7cnkicZxQ1csgr29nSU": {
+			"name" : "sha256 TRRXITTE",
+			"link" : "https://sha256.trrxitte.com/#TRRXITTE"
 		},
 		"3Bmb9Jig8A5kHdDSxvDZ6eryj3AXd3swuJ": {
 			"name" : "NovaBlock",
