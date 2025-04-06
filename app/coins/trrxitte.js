@@ -15,7 +15,7 @@ const currencyUnits = [
 		type:"native",
 		name:"mTRRXITTE",
 		multiplier:1000,
-		values:["mbchc"],
+		values:["mtrrxitte"],
 		decimalPlaces:5
 	},
 	{
